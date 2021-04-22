@@ -4,7 +4,7 @@ Discord Slash Commands bot to launch Voice Channel Activities. Made with [Harmon
 
 ## Invite
 
-You can invite the bot [here](https://discord.com/oauth2/authorize?client_id=834755503778955285&permissions=1&scope=applications.commands%20bot). And you can join [PetitLeviathan Discord](discord.gg/kwQb2CeRam) if you need any help!
+You can invite the bot [here](https://discord.com/oauth2/authorize?client_id=834755503778955285&permissions=1&scope=applications.commands%20bot). And you can join [PetitLeviathan Discord](https://discord.gg/kwQb2CeRam) if you need any help!
 
 ## Deployment
 
